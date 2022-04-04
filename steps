@@ -1,0 +1,72 @@
+To Do List Of Designing
+  
+
+  
+Home page
+1.NavBar
+   -Home
+   -About 
+   -Services
+   -Contact
+2.Header
+   -Content=>Heading,Discription,Button
+   -Surrounding=>Header is surrounded by cards on its right and bottom
+3.Cards on right
+    -content=>heading,amount,buynow Button
+4.Cards on bottom
+    -content=>logo,heading,discription
+5.Info section
+    -left part=>Image
+    -Right part=> heading,discription,button
+6.Image section
+    -contain Grid Of Images
+7.Footer section
+     -copyright details
+
+Things to remember while creating page
+1.create one div with class wrapper or container and put entire elements there
+2.look at the page and notice how many sections you are gonna divide the page in and keep each part in that section.
+3.Things which are common try to give same class to them.
+
+
+
+About page
+1.navbar
+2.heading
+3.intro
+   -owner
+   -owner-details
+4.Services
+    -service*4
+5.clients
+   client
+6.Footer
+
+services page
+1.heading
+2.Service Cards
+  -card card1
+     --heading
+     --para
+  -card card2
+3.demo section
+    --h1
+    --description
+    --request demo link
+4.staff section
+     --h2
+     --search box through bootstrap
+
+contact page
+ contact-details section
+  1.user Contact
+      -Name(required)
+      -Email(required)
+      -subject(optional)
+      -Your Message
+      --btn
+ 2.Our-contact
+      -Email(red color uppercase underline after data)
+      -phone(red color uppercase underline after data)
+      -On The web(red color uppercase underline after data)
+        --pinterest|linkdin|Twitter
